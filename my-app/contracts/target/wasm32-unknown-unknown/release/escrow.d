@@ -1,0 +1,1 @@
+/Users/emirhancavusoglu/Documents/CODE/stellarEstate/EstateChain/my-app/contracts/target/wasm32-unknown-unknown/release/escrow.wasm: /Users/emirhancavusoglu/Documents/CODE/stellarEstate/EstateChain/my-app/contracts/escrow/src/lib.rs

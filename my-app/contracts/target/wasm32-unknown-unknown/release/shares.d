@@ -1,0 +1,1 @@
+/Users/emirhancavusoglu/Documents/CODE/stellarEstate/EstateChain/my-app/contracts/target/wasm32-unknown-unknown/release/shares.wasm: /Users/emirhancavusoglu/Documents/CODE/stellarEstate/EstateChain/my-app/contracts/shares/src/lib.rs

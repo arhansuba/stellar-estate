@@ -1,0 +1,26 @@
+[workspace]
+resolver = "2"
+members = ["escrow", "marketplace", "property", "shares","increment"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+
+[workspace.dependencies]
+soroban-sdk = "20.5.0"
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
+debug = 0
+strip = "symbols"
+debug-assertions = false
+panic = "abort"
+codegen-units = 1
+lto = true
+
+[workspace.metadata.soroban]
+version = "20.5.0"
+
+[workspace.metadata.soroban.target]
+non-std-only = true
