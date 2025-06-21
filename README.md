@@ -78,7 +78,7 @@ The frontend seamlessly integrates with these functions via the Stellar SDK, pro
 
 ## Demo
 
-[View Demo Video](https://github.com/user-attachments/assets/87b91ace-0b9d-4a94-acd7-f04baf308a49)
+[View Demo Video](https://drive.google.com/drive/folders/1cmD0WM4GGjJMNKHjIRHpEL5OUeQ6Gle8?usp=sharing)
 
 ## Screenshots
 ![Ekran görüntüsü 2024-10-13 050557](https://github.com/user-attachments/assets/32d0ca28-9559-4144-900d-3aaf6a9f951a)
