@@ -78,7 +78,7 @@ The frontend seamlessly integrates with these functions via the Stellar SDK, pro
 
 ## Demo
 
-https://github.com/user-attachments/assets/87b91ace-0b9d-4a94-acd7-f04baf308a49
+[View Demo Video](https://github.com/user-attachments/assets/87b91ace-0b9d-4a94-acd7-f04baf308a49)
 
 ## Screenshots
 ![Ekran görüntüsü 2024-10-13 050557](https://github.com/user-attachments/assets/32d0ca28-9559-4144-900d-3aaf6a9f951a)
@@ -97,15 +97,13 @@ https://github.com/user-attachments/assets/87b91ace-0b9d-4a94-acd7-f04baf308a49
 
 ## Setup and Installation
 
-To get EstateChain running locally:
+To get stellar-estate running locally:
 
 1. Clone the repository:
-git clone https://github.com/arhansuba/EstateChain.git
-
-
-
-
-cd EstateChain
+```bash
+git clone https://github.com/arhansuba/stellar-estate.git
+cd stellar-estate
+```
 
 
 2. Install dependencies:
@@ -155,6 +153,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-# stellar-estate
