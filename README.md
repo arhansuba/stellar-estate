@@ -43,7 +43,7 @@ This combination allows us to create a platform that's not just technologically 
 
 ## Presentation
 
-[EstateChain Presentation](https://www.canva.com/design/DAGTYbz3kc8/MqZyKWbhnaRndGifKUBNRQ/edit?utm_content=DAGTYbz3kc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[EstateChain Presentation](https://www.canva.com/design/DAGq-CbBydY/BryDlqdr-sbpjQJ2FZc-Tg/edit?utm_content=DAGq-CbBydY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Smart Contract and Integration
 
