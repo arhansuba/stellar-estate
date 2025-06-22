@@ -140,12 +140,7 @@ Our accomplished team brings a wealth of blockchain and hackathon experience:
 - Accolades: 5-time hackathon participant, IDEAthon winner
 - Expertise: Stellar blockchain, smart contracts, full-stack development
 
-- **Emirhan Çavuşoğlu**
-- Role: Full-stack Developer & Smart Contract Specialist
-- Accolades: 2-time hackathon winner, including Uniswap Hookathon
-- Expertise: React, Next.js, blockchain integration, UI/UX design
 
-Together, we combine deep technical knowledge with proven ability to innovate rapidly, ensuring EstateChain pushes the boundaries of what's possible in decentralized real estate investment.
 
 
 
